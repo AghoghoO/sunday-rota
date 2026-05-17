@@ -1,0 +1,8 @@
+{
+  "name": "Sunday Rota Master",
+  "description": "An intelligent, constraint-based rota generator for Sunday services with role management and historical tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
